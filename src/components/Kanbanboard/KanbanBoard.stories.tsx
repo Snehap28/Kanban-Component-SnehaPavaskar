@@ -7,14 +7,14 @@ const meta: Meta<typeof KanbanBoard> = {
   component: KanbanBoard,
   tags: ["autodocs"],
 };
-
 export default meta;
 type Story = StoryObj<typeof KanbanBoard>;
+
 export const Default: Story = { args: {} };
+
 export const Empty: Story = {
   render: () => (
     <div style={{ padding: 20 }}>
-      
       <KanbanBoard />
     </div>
   ),
