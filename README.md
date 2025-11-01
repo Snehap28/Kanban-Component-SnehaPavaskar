@@ -3,7 +3,7 @@ A interactive and responsive "Kanban Board" created with "React, TypeScript, and
 Including drag-and-drop functions, task management, and Storybook documentation.
 
 ##  Live Storybook
-[Your Deployed Storybook URL]
+[(https://6905e96d4ef7c8cbaf0e3d2f-bunnljrzcy.chromatic.com/)]
 
 ##  Installation
 \`\`\`bash
